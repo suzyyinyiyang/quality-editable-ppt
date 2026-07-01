@@ -1,6 +1,0 @@
-interface:
-  display_name: "Quality Editable PPT"
-  short_description: "Create reconstructable high-visual editable PPTX from short prompts, outlines, or slide images using visual blueprints, image_gen/image2 previews, assets, and presentation plugin output."
-  default_prompt: "Use $quality-editable-ppt to create a reconstructable high-visual editable PPT. First generate the outline for confirmation, then visual blueprint for confirmation, then image_gen/image2 preview for confirmation, then element inventory and assets for confirmation, then build slides 1-3 using presentation plugin for render confirmation before completing the deck."
-policy:
-  allow_implicit_invocation: true
